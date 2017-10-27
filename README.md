@@ -18,5 +18,8 @@ Examples of 3D printing mathematical surfaces using MatLAB
 3.  Hydrogen wave functions
 4.  Molecular bonds (shared orbitals)
 5.  Multipole potentials
+6.  Worm-like chains
+7.  Ramdomly generated mazes
+8.  Steel ball simulation of mean free paths
 
 
