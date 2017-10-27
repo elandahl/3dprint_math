@@ -5,7 +5,7 @@ Examples of 3D printing mathematical surfaces using MatLAB
 1.  Start MatLab, likely using the University's [Virtual Lab](https://offices.depaul.edu/information-services/services/Software/Pages/Software-for-the-Virtual-Lab.aspx)
 2.  Make sure you select a convenient directory as your "home directory", such as the Desktop.
 3.  Download the files in this repository
-4.  Run the program 3Dprint_cyl.m to produce a MatLab surface mesh figure and and mysurface.stl
+4.  Run the program `3Dprint_cyl.m` to produce a MatLab surface mesh figure and and mysurface.stl
 5.  Open Cura, and load mysurface.stl .  Adjust as necessary and then 3D print.
 6.  You may change sizes, cutoffs, scalings, functions, etc in the MatLab code.  More examples to come (see below).
 
