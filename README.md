@@ -11,9 +11,9 @@ Examples of 3D printing mathematical surfaces using MatLAB
 
 ## Done so far:
 * Plotting in cylindrical coordinates, with examples:
-1.  Gravitational potential well (Z = 1/R)
-2.  Screw (Z = Theta)
-3.  Vibrations of a circular drummead (Solutions to boundary value problem)
+  1.  Gravitational potential well (Z = 1/R)
+  2.  Screw (Z = Theta)
+  3.  Vibrations of a circular drummead (Solutions to boundary value problem)
 
 * A full documented example of a gravitational potential well with physics notes is available on [Thingiverse](https://www.thingiverse.com/thing:561757/#files).*
 
